@@ -1,2 +1,6 @@
-Import the fashion Mnist data set from https://github.com/zalandoresearch/fashion-mnist. This program learns how to classify images of clothings, and make predictions using logistic/
-softmax regression.
+#### Clothing Classification with Logistic Regression/Softmax Regrsesion ####
+- fashion-mnist dataset
+- SoftMax Regrssion
+- Logistic Regrssion
+- Cross Validation
+- Principles Components Analysis
